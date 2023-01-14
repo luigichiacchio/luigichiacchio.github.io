@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://luigichiacchio.it/sitemap.xml
+Sitemap: https://sykerfix.it/sitemap.xml

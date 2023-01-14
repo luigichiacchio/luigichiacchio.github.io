@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sykerfix</title>
-    <link>https://luigichiacchio.it/tags/</link>
+    <link>https://sykerfix.it/tags/</link>
     <description>Recent content in Tags on Sykerfix</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="https://luigichiacchio.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="https://sykerfix.it/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
