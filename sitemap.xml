@@ -2,63 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://sykerfix.it/2023/diario-sykerfix-primo-post/</loc>
-      
-      <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sykerfix.it/articoli/</loc>
-      
-      <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sykerfix.it/categories/</loc>
-      
-      <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://sykerfix.it/chi-sono/</loc>
-      
-      <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sykerfix.it/articoli/daw/</loc>
       
       <lastmod>2023-01-14T00:00:00+00:00</lastmod>
       
@@ -86,23 +30,7 @@
     </url>
   
     <url>
-      <loc>https://sykerfix.it/posts/</loc>
-      
-      <lastmod>2023-01-14T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sykerfix.it/categories/produzione-musicale/</loc>
-      
-      <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+      <loc>https://sykerfix.it/categories/</loc>
       
       
       <changefreq>monthly</changefreq>
@@ -115,8 +43,6 @@
   
     <url>
       <loc>https://sykerfix.it/</loc>
-      
-      <lastmod>2023-01-14T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>

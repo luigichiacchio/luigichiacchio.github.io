@@ -5,17 +5,7 @@
     <description>Recent content in Sykerfix on Sykerfix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sykerfix.it/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Articoli</title>
-      <link>https://sykerfix.it/articoli/</link>
-      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://sykerfix.it/articoli/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Chi sono</title>
@@ -44,15 +34,6 @@ Read it at:&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode&#34;&gt;https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://sykerfix.it/posts/</link>
-      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://sykerfix.it/posts/</guid>
-      <description></description>
     </item>
     
   </channel>
